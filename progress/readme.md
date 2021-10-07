@@ -1,2 +1,1 @@
-# Code-23 
-# Capstone-Design Progress
+# Code-23: Capstone-Design Progress
